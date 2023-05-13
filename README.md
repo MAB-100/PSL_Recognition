@@ -1,6 +1,7 @@
 # Pakistan Sign Language Recognition using Computer Vision
 
-With 5% of any country's population experiencing hearing impairment, there is a crucial need for a national sign language interpreter. To address this, we've developed a PSL Interpreter that employs computer vision technology to convert sign language into text with just a camera.
+With 5% of any country's population experiencing hearing impairment, there is a crucial need for a national sign language interpreter. To address this, we've developed a PSL Interpreter that employs computer vision technology to convert sign language into text with just a camera. 
+Built for our "Introduction to Computer Vision" course, under the supervision of Dr. Naeem Akhtar
 
 ## Usage
 
