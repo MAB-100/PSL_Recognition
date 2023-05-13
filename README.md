@@ -21,7 +21,8 @@ Fork this repository. Change path to model accordingly in Module 9. Save Weights
 
 ## Collaboraters 
 
-[Muhammad Hassaan Ibrahim](https://www.linkedin.com/in/hassaanibrahim/)\n
+[Muhammad Hassaan Ibrahim](https://www.linkedin.com/in/hassaanibrahim/)
+<br>
 [Abbas Bukhari](https://www.linkedin.com/in/muhammad-abbas-bukhari-7b0552233/)
 
 
