@@ -13,6 +13,10 @@ Fork this repository. Change path to model accordingly in Module 9. Save Weights
 
 ![Alt text](notes/demo2.jpg "ex1")
 
+## Training accuracy visualization
+
+
+![Alt text](notes/epoch_accuracy_tensorboard.jpg)
 
 
 
