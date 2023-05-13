@@ -19,4 +19,11 @@ Fork this repository. Change path to model accordingly in Module 9. Save Weights
 ![Alt text](notes/epoch_accuracy_tensorboard.jpg)
 
 
+## Collaboraters 
+
+[Muhammad Hassaan Ibrahim](https://www.linkedin.com/in/hassaanibrahim/)
+[Abbas Bukhari](https://www.linkedin.com/in/muhammad-abbas-bukhari-7b0552233/)
+
+
+
 
