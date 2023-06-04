@@ -7,11 +7,18 @@ Built for our "Introduction to Computer Vision" course, under the supervision of
 
 Fork this repository. Change path to model accordingly in Module 9. Save Weights. Run the code block after module 10 to test our model using real-world data!
 
+## Working of the System
+
+![Alt text](notes/working.drawio.png)
+
+## Our Model's Summary
+
+![Alt text](notes/"Model summary.png")
+
 ## Output
 
-![Alt text](notes/demo1.jpg "ex2")
+![Alt text](notes/results.png)
 
-![Alt text](notes/demo2.jpg "ex1")
 
 ## Training accuracy visualization
 
