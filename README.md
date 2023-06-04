@@ -13,7 +13,7 @@ Fork this repository. Change path to model accordingly in Module 9. Save Weights
 
 ## Our Model's Summary
 
-![Alt text](notes/Model summary.png)
+![Alt text](notes/Modelsummary.png)
 
 ## Output
 
